@@ -7,3 +7,7 @@ conceitos abordados:
 - Armazenamento e gerenciamento de estado manual
 - Funções limpas
 - Organização de código
+
+- Link do projeto original https://github.com/digitalinnovationone/js-yugioh-assets  (DIO)
+
+Alterei algumas imagens dos cards e adicionei ao ataque os elementos: Fire / Holy / Death e Ice.
