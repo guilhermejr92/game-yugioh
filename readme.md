@@ -8,6 +8,8 @@ conceitos abordados:
 - Funções limpas
 - Organização de código
 
+- Desafio de projeto proposto pelo expert Felipe Aguiar (DIO)
+
 - Link do projeto original https://github.com/digitalinnovationone/js-yugioh-assets  (DIO)
 
 Alterei algumas imagens dos cards e adicionei ao ataque os elementos: Fire / Holy / Death e Ice.
