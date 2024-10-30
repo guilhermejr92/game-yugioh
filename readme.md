@@ -13,7 +13,7 @@ Este projeto aborda diversos fundamentos de programação aplicados a jogos:
 
 🛠️ Detalhes Adicionais do Projeto
 
-Este jogo foi desenvolvido como parte de um desafio proposto pelo expert Felipe Aguiar na plataforma DIO. O projeto original está disponível em js-yugioh-assets (DIO).
+Este jogo foi desenvolvido como parte de um desafio proposto pelo expert Felipe Aguiar na plataforma DIO. O projeto original está disponível em [js-yugioh-assets](https://github.com/digitalinnovationone/js-yugioh-assets) (DIO).
 
 ## Modificações e Recursos Adicionados
 
